@@ -1,7 +1,7 @@
 # treasurefinder
 Code finds treasure in 5x5 array
 
-There are two implementations of task: 
+There are two implementations: 
 - functional with closures and recursion
 - class
 
